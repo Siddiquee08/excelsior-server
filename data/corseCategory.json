@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Web Development"
+    },
+    {
+        "id": "02",
+        "name": "Data Science and Analysis"
+    },
+    {
+        "id": "03",
+        "name": "Design"
+    },
+    {
+        "id": "04",
+        "name": "Business"
+    },
+    {
+        "id": "05",
+        "name": "Blockchain"
+    },
+    {
+        "id": "01",
+        "name": "Web Development (Beginner)"
+    }
+]
