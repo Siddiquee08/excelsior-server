@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "639e0b5d90d84c35af073244",
+    "category_id": "01",
+    "picture": "https://images.ctfassets.net/aq13lwl6616q/5Vsjisy7BEI69JhQoonaZh/e3dad68c580259a55d3389cb897e5291/complete_web_devloper_zero_to_mastery.png?w=1600&h=896&q=50&fm=webp",
+    "title": "Complete Web Developer Bootcamp",
+    "description": "Learn to code from scratch and get hired as a Web Developer in 2023. This full-stack coding bootcamp will teach you HTML, CSS, JavaScript, React, Node.js, Machine Learning & more.\r\n"
+  },
+  {
+    "_id": "639e0b5dfd5c997a57bc0a81",
+    "category_id": "01",
+    "picture": "https://images.ctfassets.net/aq13lwl6616q/6zCIfQKcUgpsnIqOwr3v2K/f5532e81dd84804b053765008e429afb/complete_React_Developer_zero_to_mastery_ztm.png?w=1600&h=900&q=50&fm=webp",
+    "title": "Complete React Developer (w/ Redux, Hooks, GraphQL)",
+    "description": "Learn from React.js experts. This is the only React JS tutorial + projects course you need to learn React, build advanced large-scale applications from scratch and get hired as a React Developer in 2023. Go from Zero To React Mastery.\r\n"
+  },
+  {
+    "_id": "639e0b5d31e5179e670addfa",
+    "category_id": "02",
+    "picture": "https://images.ctfassets.net/aq13lwl6616q/6bolgTblguVmPNCuPtcPA0/6c5ba82b97b93170d0273565f1380ee0/MLDS_Cover_Photo-.png?w=800&h=450&q=50&fm=webp",
+    "title": "Machine Learning and Data Science Bootcamp",
+    "description": "One of the most popular, highly rated machine learning and data science bootcamps online. It's also the most moderen and up-to-date. Guaranteed. You'll go from complete beginner with no prior experience to getting hired as a Machine Learning Engineer this year. You'll learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence), Python, Python with Tensorflow, Pandas & more!.\r\n"
+  },
+  {
+    "_id": "639e0b5d5b5f50966265f697",
+    "category_id": "02",
+    "picture": "https://images.ctfassets.net/aq13lwl6616q/13733PvKmnyWI3N3bBmQH3/bfb09ac1afeb6f8594688f12947b44dd/complete_sql_database_zero_to_mastery.png?w=1600&h=900&q=50&fm=webp",
+    "title": "Complete SQL + Databases Bootcamp",
+    "description": "Updated with all modern SQL and Database (PostgreSQL, MySQL) features for 2023, you'll learn SQL from not one, but two industry experts. Learning SQL and database best practices from this bootcamp will help you level-up your skillset to earn a higher salary and even get you hired.\r\n"
+  },
+  {
+    "_id": "639e0b5de13b9354bdf1c8ca",
+    "category_id": "03",
+    "picture": "https://images.ctfassets.net/aq13lwl6616q/75XmCBS35kqsky2S2mtuoP/6938210a367b1e151bcd9edb69b842a5/image.png?w=1600&h=900&q=50&fm=webp",
+    "title": "Web & Mobile Designer in 2023: UI/UX, Figma + more",
+    "description": "Go from complete beginner to getting hired as a Designer in 2023! This is the only design bootcamp you need to learn and master web design, mobile design, Figma, UI & UX, and HTML + CSS.\r\n"
+  },
+  {
+    "_id": "639e0b5d6b281117e142bece",
+    "category_id": "03",
+    "picture": "https://images.ctfassets.net/aq13lwl6616q/2DpTJGqnD9AKDToe15AV4K/e292eea9ec2879bd4a3d112a298ad8a7/Motion_Design_Zero_to_Mastery.png?w=1600&h=900&q=50&fm=webp",
+    "title": "Motion Design with Figma: Animations, Motion Graphics, UX/UI",
+    "description": "Learn motion design using Figma from a design industry pro. You'll learn way more than just motion design principles and theory. This projects-based course will teach you how to use motion to take your designs (and portfolio) to the next level.\r\n"
+  },
+  {
+    "_id": "639e0b5d5ebf3380cfd6f054",
+    "category_id": "04",
+    "picture": "https://images.ctfassets.net/aq13lwl6616q/2n1XBWfwVs3XyltFQ6ECzA/7c77783335cddcd14b40121417520d51/Course_Thumbnail_-_Business_Intelligence_with_Excel_-_Academy_2.png?w=800&h=450&q=50&fm=webp",
+    "title": "Business Intelligence with Excel",
+    "description": "The only course you need to launch your career as a Data Professional! Learn to master Excel's built-in power tools, including Power Query, Power Pivot Tables, Data Modeling, the DAX formula language, and so much more. Become a Business Intelligence Analyst and get hired in 2023.\r\n"
+  },
+  {
+    "_id": "639e0b5db32b291661f4e08c",
+    "category_id": "04",
+    "picture": "https://images.ctfassets.net/aq13lwl6616q/2JT9VosnF480izRmFTbum/0c6ebf1c08f6b8e6e9d96c0a2791e0c9/Excel_-_FINAL_DESIGN__FINAL_.png?w=800&h=450&q=50&fm=webp",
+    "title": "The Excel Bootcamp",
+    "description": "The only course you need to become an Excel and Data Analysis master. Learn Excel Formulas and Functions, Data Visualization, Pivot Tables, VBA Macros, and much more. Start or supplement your career with data analysis and modeling skills so you can get hired in 2023.\r\n"
+  },
+  {
+    "_id": "639e0b5d35e7dfd3be6845a8",
+    "category_id": "05",
+    "picture": "https://images.ctfassets.net/aq13lwl6616q/1FLuBUjKFzaqQFPSvVZtf4/5da286c54dda2dbcb11670ee5266a069/Academy_Thumbnail.png?w=1600&h=896&q=50&fm=webp",
+    "title": "Solidity, Ethereum, and Blockchain: The Complete Developer's Guide",
+    "description": "Learn Solidity from scratch, from an industry expert. You'll learn Solidity fundamentals all the way to advanced blockchain technologies so that you'll be able to go from beginner to building your own web3 projects and getting hired as a Blockchain Developer.\r\n"
+  },
+  {
+    "_id": "639e0b5de998387ad9b8ac83",
+    "category_id": "05",
+    "picture": "https://images.ctfassets.net/aq13lwl6616q/6xj7YJoJ3XDmZAC84GdkgH/959105f200012c643e8fb2bfc39c61ab/Thumbnail5.png?w=800&h=450&q=50&fm=webp",
+    "title": "Web3 Masterclass: Blockchain, DApps, DAOs + More",
+    "description": "Learn all about web3, the future of the web! This course will teach you everything you need to know to get up to speed on web3 including concepts like Blockchain, Cryptocurrencies (like Ethereum & Bitcoin), Smart Contracts, DApps, DAOs, NFTs, and more.\r\n"
+  },
+  {
+    "_id": "639e0b5df1d30703064adb75",
+    "category_id": "06",
+    "picture": "https://images.ctfassets.net/aq13lwl6616q/34oTrOaPCY3VKnubPKZCKv/a8eb7d89a56594d9d5acb91252b451b5/MTCI.png?w=800&h=450&q=50&fm=webp",
+    "title": "Data Structures + Algorithms",
+    "description": "The ultimate coding interview bootcamp to help you ace your coding interviews and land your dream job. You'll not only learn data structures and algorithms but also the exact steps to take to get more interviews, more job offers, and a higher salary.\r\n"
+  },
+  {
+    "_id": "639e0b5d521325faafa3f96a",
+    "category_id": "06",
+    "picture": "https://images.ctfassets.net/aq13lwl6616q/2wqtcZLn5BirJ42EDfoair/be61835b9f2afa0b4e85a317a436650c/Python_Cover.jpg?w=750&h=422&q=50&fm=webp",
+    "title": "Complete Python Developer in 2023: Zero to Mastery",
+    "description": "Learn Python. Get hired. This is one of the most popular, highly rated python coding bootcamps online. It's also the most modern and up-to-date. Guaranteed. This is the only Python course you need if you want to go from complete Python beginner to getting hired as a Python Developer this year!\r\n"
+  }
+]
