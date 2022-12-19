@@ -16,10 +16,13 @@ app.get("/details/:id", (req, res) => {
   const selectedCourse = allCourses.find((course) => course._id === id);
   res.send(selectedCourse);
 });
-app.get("/courses/:id", (req, res) => {
+app.get("/coursesbyid/:id", (req, res) => {
   const id = req.params.id;
   const course = allCourses.filter((c) => c.category_id === id);
   res.send(course);
+});
+app.get("/allcourses", (req, res) => {
+  res.send(allCourses);
 });
 app.listen(port, () => {
   console.log("The server is running on port:", port);
