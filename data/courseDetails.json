@@ -1,6 +1,7 @@
 [
   {
     "_id": "639e0b5d90d84c35af073244",
+    "duration" : "90 Hours",
     "category_id": "01",
     "picture": "https://images.ctfassets.net/aq13lwl6616q/5Vsjisy7BEI69JhQoonaZh/e3dad68c580259a55d3389cb897e5291/complete_web_devloper_zero_to_mastery.png?w=1600&h=896&q=50&fm=webp",
     "title": "Complete Web Developer Bootcamp",
@@ -8,6 +9,7 @@
   },
   {
     "_id": "639e0b5dfd5c997a57bc0a81",
+    "duration" : "21 Hours",
     "category_id": "01",
     "picture": "https://images.ctfassets.net/aq13lwl6616q/6zCIfQKcUgpsnIqOwr3v2K/f5532e81dd84804b053765008e429afb/complete_React_Developer_zero_to_mastery_ztm.png?w=1600&h=900&q=50&fm=webp",
     "title": "Complete React Developer (w/ Redux, Hooks, GraphQL)",
@@ -15,6 +17,8 @@
   },
   {
     "_id": "639e0b5d31e5179e670addfa",
+    
+    "duration" : "70 Hours",
     "category_id": "02",
     "picture": "https://images.ctfassets.net/aq13lwl6616q/6bolgTblguVmPNCuPtcPA0/6c5ba82b97b93170d0273565f1380ee0/MLDS_Cover_Photo-.png?w=800&h=450&q=50&fm=webp",
     "title": "Machine Learning and Data Science Bootcamp",
@@ -22,6 +26,7 @@
   },
   {
     "_id": "639e0b5d5b5f50966265f697",
+    "duration" : "27 Hours",
     "category_id": "02",
     "picture": "https://images.ctfassets.net/aq13lwl6616q/13733PvKmnyWI3N3bBmQH3/bfb09ac1afeb6f8594688f12947b44dd/complete_sql_database_zero_to_mastery.png?w=1600&h=900&q=50&fm=webp",
     "title": "Complete SQL + Databases Bootcamp",
@@ -29,6 +34,7 @@
   },
   {
     "_id": "639e0b5de13b9354bdf1c8ca",
+    "duration" : "43 Hours",
     "category_id": "03",
     "picture": "https://images.ctfassets.net/aq13lwl6616q/75XmCBS35kqsky2S2mtuoP/6938210a367b1e151bcd9edb69b842a5/image.png?w=1600&h=900&q=50&fm=webp",
     "title": "Web & Mobile Designer in 2023: UI/UX, Figma + more",
@@ -36,6 +42,7 @@
   },
   {
     "_id": "639e0b5d6b281117e142bece",
+    "duration" : "33 Hours",
     "category_id": "03",
     "picture": "https://images.ctfassets.net/aq13lwl6616q/2DpTJGqnD9AKDToe15AV4K/e292eea9ec2879bd4a3d112a298ad8a7/Motion_Design_Zero_to_Mastery.png?w=1600&h=900&q=50&fm=webp",
     "title": "Motion Design with Figma: Animations, Motion Graphics, UX/UI",
@@ -43,6 +50,7 @@
   },
   {
     "_id": "639e0b5d5ebf3380cfd6f054",
+    "duration" : "25 Hours",
     "category_id": "04",
     "picture": "https://images.ctfassets.net/aq13lwl6616q/2n1XBWfwVs3XyltFQ6ECzA/7c77783335cddcd14b40121417520d51/Course_Thumbnail_-_Business_Intelligence_with_Excel_-_Academy_2.png?w=800&h=450&q=50&fm=webp",
     "title": "Business Intelligence with Excel",
@@ -50,6 +58,7 @@
   },
   {
     "_id": "639e0b5db32b291661f4e08c",
+    "duration" : "10 Hours",
     "category_id": "04",
     "picture": "https://images.ctfassets.net/aq13lwl6616q/2JT9VosnF480izRmFTbum/0c6ebf1c08f6b8e6e9d96c0a2791e0c9/Excel_-_FINAL_DESIGN__FINAL_.png?w=800&h=450&q=50&fm=webp",
     "title": "The Excel Bootcamp",
@@ -57,6 +66,7 @@
   },
   {
     "_id": "639e0b5d35e7dfd3be6845a8",
+    "duration" : "20 Hours",
     "category_id": "05",
     "picture": "https://images.ctfassets.net/aq13lwl6616q/1FLuBUjKFzaqQFPSvVZtf4/5da286c54dda2dbcb11670ee5266a069/Academy_Thumbnail.png?w=1600&h=896&q=50&fm=webp",
     "title": "Solidity, Ethereum, and Blockchain: The Complete Developer's Guide",
@@ -64,6 +74,7 @@
   },
   {
     "_id": "639e0b5de998387ad9b8ac83",
+    "duration" : "30 Hours",
     "category_id": "05",
     "picture": "https://images.ctfassets.net/aq13lwl6616q/6xj7YJoJ3XDmZAC84GdkgH/959105f200012c643e8fb2bfc39c61ab/Thumbnail5.png?w=800&h=450&q=50&fm=webp",
     "title": "Web3 Masterclass: Blockchain, DApps, DAOs + More",
@@ -71,6 +82,7 @@
   },
   {
     "_id": "639e0b5df1d30703064adb75",
+    "duration" : "20 Hours",
     "category_id": "06",
     "picture": "https://images.ctfassets.net/aq13lwl6616q/34oTrOaPCY3VKnubPKZCKv/a8eb7d89a56594d9d5acb91252b451b5/MTCI.png?w=800&h=450&q=50&fm=webp",
     "title": "Data Structures + Algorithms",
@@ -78,6 +90,7 @@
   },
   {
     "_id": "639e0b5d521325faafa3f96a",
+    "duration" : "50 Hours",
     "category_id": "06",
     "picture": "https://images.ctfassets.net/aq13lwl6616q/2wqtcZLn5BirJ42EDfoair/be61835b9f2afa0b4e85a317a436650c/Python_Cover.jpg?w=750&h=422&q=50&fm=webp",
     "title": "Complete Python Developer in 2023: Zero to Mastery",
